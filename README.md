@@ -2,7 +2,6 @@
 - 👀 I’m interested in automate things
 - 🌱 I’m currently learning web Development and python web frameworks
 - 📫 reach me on email: dcns8818@gmial.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i'am also a music producer 
 
 <!---
