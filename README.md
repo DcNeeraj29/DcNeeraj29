@@ -17,9 +17,7 @@ Feel free to reach out via email: dcns8818@gmail.com
 
 📂 Projects
 Check out some of my projects:
-- [Project 1](#) - Short description of project 1
-- [Project 2](#) - Short description of project 2
-- 
+- [Project 1](#) - YouTube_PlayList_Downloader
 
 🤝 Connect With Me
 - LinkedIn : www.linkedin.com/in/neeraj-singh-9374ba273
