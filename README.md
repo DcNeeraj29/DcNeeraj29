@@ -11,6 +11,7 @@ Feel free to reach out via email: dcns8818@gmail.com
 🛠 Tech Stack
 - Programming Languages: Python, JavaScript, C++
 - Web Development: HTML, CSS, React, Node.js, Express.js
+- Data Analytics: numpy,pandas,seaborn,matplot
 - Databases: MongoDB, PostgreSQL
 - Automation: Scripting, API Development
 - API Development & Testing: Postman
