@@ -2,7 +2,7 @@
 
 👀 About Me
 
-Passionate about technology and automation, I thrive on solving real-world problems through code. I am currently diving deep into web development and exploring Python and frameworks to build efficient and scalable applications. With a strong inclination toward automation, I love creating scripts that simplify everyday tasks and enhance productivity.
+Passionate about technology and automation, I thrive on solving real-world problems through code. I am currently diving deep into data science and exploring Python and frameworks to build efficient and scalable applications. With a strong inclination toward automation, I love creating scripts that simplify everyday tasks and enhance productivity.
 
 Outside of coding, I have a creative side—I am also a music producer who enjoys experimenting with sound and rhythm.
 
