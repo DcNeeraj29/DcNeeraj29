@@ -12,7 +12,8 @@ Feel free to reach out via email: dcns8818@gmail.com
 - Programming Languages: Python, JavaScript, C++
 - Web Development: HTML, CSS, React, Node.js, Express.js
 - Data Analytics: numpy,pandas,seaborn,matplot
-- Databases: MongoDB, PostgreSQL
+- Databases: MongoDB, PostgreSQL, mySql
+- Tools: vscode, jupyter notebook, google colab ,pycharm, webstorm, notion
 - Automation: Scripting, API Development
 - API Development & Testing: Postman
 
