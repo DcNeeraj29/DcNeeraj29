@@ -24,6 +24,8 @@ Check out some of my projects:
 
 🤝 Connect With Me
 - LinkedIn : www.linkedin.com/in/neeraj-singh-9374ba273
+- My Resume: [Resume.pdf](https://github.com/user-attachments/files/19741720/Resume.pdf)
+
 
 
 ---
