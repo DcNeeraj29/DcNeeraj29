@@ -17,10 +17,6 @@ Feel free to reach out via email: dcns1583@gmail.com
 - Automation: Scripting, API Development
 - API Development & Testing: Postman
 
-📂 Projects
-Check out some of my projects:
-- [Project 1](#) - YouTube_PlayList_Downloader
-- [Project 2](#) - Student_Score_Predictor
 
 🤝 Connect With Me
 - LinkedIn : www.linkedin.com/in/neeraj-singh-9374ba273
