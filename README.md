@@ -6,7 +6,7 @@ Passionate about technology and automation, I thrive on solving real-world probl
 
 Outside of coding, I have a creative side—I am also a music producer who enjoys experimenting with sound and rhythm.
 
-Feel free to reach out via email: dcns1583@gmail.com
+Feel free to reach out via email: neerajsingh6742@gmail.com
 
 🛠 Tech Stack
 - Programming Languages: Python, JavaScript, C++
@@ -19,7 +19,7 @@ Feel free to reach out via email: dcns1583@gmail.com
 
 
 🤝 Connect With Me
-- LinkedIn : www.linkedin.com/in/neeraj-singh-9374ba273
+- LinkedIn : www.linkedin.com/in/neeraj-singh-29ar
   
 
 
